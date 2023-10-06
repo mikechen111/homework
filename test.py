@@ -1,2 +1,1 @@
-int apple = 65
-print(apple)
+print("apple")
